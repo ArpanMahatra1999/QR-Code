@@ -1,5 +1,4 @@
 # QR-Code
-
 Python code for creating qr-code svg.
 
 Tools used:
